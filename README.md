@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 I'm currently a thrid-year undergraduate student int Software Engineering at Nanjing University.
+- 🔭 I previously worked with [Tao Yu](https://taoyds.github.io/) at [XLang Lab](https://xlang.ai/), HKU, on VLA models for general robot control.
+- 🧑‍💼 Before that, I conducted research on AI4SE under the supervision of [Hongyu Kuang](https://software.nju.edu.cn/khy/index.html) at Nanjing University. 
+- 💖 I'm generally interested in:
+  - 🤖 Embodied AI
+  - ⚙️ AI Agents
+- 🗡️ MBTI: ENFJ
+- 📫 How to reach me: meiyuanzhu@smail.nju.edu.cn
+- 💬 Ask me about anything u like. I will be more than glad to make friends with you!
